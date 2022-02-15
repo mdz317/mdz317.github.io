@@ -1,0 +1,10 @@
+/*selektor{
+	property : value ;
+}*/
+body{
+	background-color: silver;
+}
+h2{
+	color: green;
+	border: 5px dotted black;
+}
